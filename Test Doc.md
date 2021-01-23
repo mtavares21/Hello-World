@@ -20,8 +20,9 @@ test
 Finish as you started it: ```
 Wait, how do i just show the code? ```
 This styling was a surprise! So thats how a 1 line list looks like?
-"```"
-And its now editable on GitHub
+
+And its now editable on GitHub.
+I just imported the Markdown file into Dillinger, let's see if i can ```save changes to GitHub.``` Will they apeear as a new branch ?
 
 
 
